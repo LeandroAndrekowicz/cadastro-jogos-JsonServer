@@ -1,0 +1,45 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card {
+  background: radial-gradient(circle, rgba(33,51,139,1) 0%, rgba(5,9,22,1) 100%);
+  border: 2px;
+  border-radius: 1em;
+  padding: 2em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.inputs{
+  background-color: rgb(134, 128, 128);
+  margin-bottom: 20px;
+  align-items: center;
+  margin-left: 10px;
+}
+input::placeholder {
+  font-size: 13px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.nome{
+  margin-right: 4.8em;
+}
+.valor{
+  margin-right: 4.9em;
+}
+.plataforma{
+  margin-right: 2em;
+}
+.genero{
+  margin-right: 3.7em;
+}
+.desenvolvedor{
+  margin-right: 0.1em;
+}

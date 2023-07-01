@@ -1,0 +1,28 @@
+{
+  "jogos": [
+    {
+      "id": 1,
+      "nome": "Resident Evil 4",
+      "valor": 200,
+      "plataforma": "PS4",
+      "genero": "Terror",
+      "desenvolvedor": "Capcom"
+    },
+    {
+      "nome": "Resident Evil 2",
+      "valor": "150",
+      "plataforma": "PC",
+      "genero": "Terror",
+      "desenvolvedor": "Capcom",
+      "id": 2
+    },
+    {
+      "nome": "Mario Kart",
+      "valor": "100",
+      "plataforma": "Nintendo",
+      "genero": "Corrida",
+      "desenvolvedor": "Nintendo",
+      "id": 3
+    }
+  ]
+}
